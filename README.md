@@ -1,7 +1,7 @@
 <h1 align="center">Marketing Criativo</h1>
 
 <p align="center">
- <img src="./components/img/Capturar.png">
+ <img src="./components/img/Capturar.PNG">
 </p>
 
 <br>
